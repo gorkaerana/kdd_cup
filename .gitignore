@@ -1,0 +1,7 @@
+# Emacs temp and backup files
+\#*
+*~
+# Data
+data/
+# Virtual environments
+venv/
